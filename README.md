@@ -1,8 +1,8 @@
 # Drillbux
 
-**A satirical AAA microtransaction simulator, built on real petroleum engineering.**
+**A satirical (basic version) AAA microtransaction simulator, built on real petroleum engineering.**
 
-Drill an offshore well in 3D, survive a kick, put it on production, and watch the crate store try to take your money — then flip one switch and see exactly how it was doing it.
+Drill an offshore well in 3D, survive a kick, put it on production, and watch the crate store try to take your money then flip one switch and see exactly how it was doing it (in a nutshell).
 
 ![Drillbux in AAA mode: an offshore jack-up rig with a loot crate landing on the helipad](docs/screenshot-aaa.png)
 
@@ -27,7 +27,7 @@ Drill an offshore well in 3D, survive a kick, put it on production, and watch th
 
 ![Regulator mode: the same store as a plain odds and cost disclosure](docs/screenshot-regulator.png)
 
-**All purchases are simulated.** There is no payment code anywhere in this game I made.
+**All purchases are simulated.** There is no payment code anywhere in this game I made hehe.
 
 ## The engineering
 
