@@ -6,7 +6,7 @@ Drill an offshore well in 3D, survive a kick, put it on production, and watch th
 
 ![Drillbux in AAA mode: an offshore jack-up rig with a loot crate landing on the helipad](docs/screenshot-aaa.png)
 
-**Play:** `https://<your-username>.github.io/drillbux/` (after enabling Pages, see below)
+**Play:** [kendrewflor.github.io/drillbux](https://kendrewflor.github.io/drillbux/)
 
 ## What you do
 
