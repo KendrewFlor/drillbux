@@ -1,0 +1,21 @@
+{
+  "name": "drillbux",
+  "version": "1.0.0",
+  "description": "Drillbux — a satirical AAA 3D microtransaction simulator built on real petroleum engineering math.",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "author": "Kendrew Flor S. Arrabe",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "verify:vendor": "node scripts/verify-vendor.mjs",
+    "scan": "node scripts/security-scan.mjs",
+    "check": "node scripts/verify-vendor.mjs && node scripts/security-scan.mjs && node --test tests/*.test.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
