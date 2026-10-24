@@ -27,7 +27,7 @@ Drill an offshore well in 3D, survive a kick, put it on production, and watch th
 
 ![Regulator mode: the same store as a plain odds and cost disclosure](docs/screenshot-regulator.png)
 
-**All purchases are simulated.** There is no payment code anywhere in this repository.
+**All purchases are simulated.** There is no payment code anywhere in this game I made.
 
 ## The engineering
 
